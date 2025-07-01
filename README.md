@@ -7,19 +7,19 @@ Each problem is in a separate file.
 
 ## Problems and Files
 
-## Problem-1.js
+## Problem1.js
 
 A calculator function that does addition, subtraction, multiplication, and division based on the given operation.
 
-## Problem-2.js
+## Problem2.js
 
 Program to print a series of odd numbers depending on the input.
 
-## Problem-3.js
+## Problem3.js
 
 Program to generate a custom odd series for different input numbers.
 
-## Problem-4.js
+## Problem4.js
 
 Program to count how many numbers in the array are multiples of 1 to 9.
 
